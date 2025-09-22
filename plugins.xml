@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extensions>
     <plugins>
-        <plugin name="CamillaMellow" version="1.0.0" minTarget="9.0" maxTarget="9.9">
+        <plugin name="CamillaMellow" version="0.2.0" minTarget="9.0" maxTarget="9.9">
             <title lang="EN">CamillaMellow DSP</title>
-            <desc lang="EN">DSP-FIR-Mellow v1.0.0 - stable base version</desc>
+            <desc lang="EN">DSP-FIR-Mellow v0.2.0 - FIR processing with E-weighted dithering</desc>
             <category>audio</category>
             <creator>Informatica Melizzi</creator>
             <email>support@informaticamelizzi.it</email>
             <homepageURL>https://github.com/InformaticaMelizzi/camillamellownew</homepageURL>
             <link>https://github.com/InformaticaMelizzi/camillamellownew</link>
-            <url>https://raw.githubusercontent.com/InformaticaMelizzi/camillamellow-stable/main/packages/CamillaMellow-1.0.0.zip</url>
-            <sha>3ee82cc0f48eb3167406988bbf2eaac81ec9579d</sha>
+            <url>https://raw.githubusercontent.com/InformaticaMelizzi/camillamellow-stable/main/packages/CamillaMellow-0.2.0.zip</url>
+            <sha>26617443bcd0727dfd6e213cb18ef39df4e3ed73</sha>
         </plugin>
     </plugins>
 </extensions>
